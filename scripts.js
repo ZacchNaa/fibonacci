@@ -1,6 +1,11 @@
 /**-------------------------------
  * fibonacci sequence
+ * write a function, fib(n) that takes a number as an argument and return the n-th
+ * number of the fibonacci sequence.
  * -------------------------------
+ * solution
+ * first and second numbers in the sequence are 1
+ * like so: 1, 1, 2, 3, 4, 8 ...
  */
 // slow function
 // const fib = (number) => {
